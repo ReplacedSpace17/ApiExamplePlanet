@@ -9,6 +9,10 @@ const planetas = require('./planetas.json');
 app.get('/planetas', (req, res) => {
   res.json(planetas);
 });
+app.get('/hola', (req, res) => {
+  res.send('Hola mundo');
+  
+});
 
 // Ruta para obtener un planeta por su nombre
 app.get('/planetas/:nombre', (req, res) => {
