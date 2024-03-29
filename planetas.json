@@ -1,0 +1,105 @@
+{
+    "planetas": [
+      {
+        "nombre": "Mercurio",
+        "tipo": "Terrestre",
+        "masa": {
+          "valor": 0.055,
+          "unidad": "Masa de la Tierra"
+        },
+        "radio": {
+          "valor": 2439.7,
+          "unidad": "km"
+        },
+        "distancia_media_al_Sol": {
+          "valor": 57.9,
+          "unidad": "millones de km"
+        },
+        "periodo_orbital": {
+          "valor": 88,
+          "unidad": "días"
+        }
+      },
+      {
+        "nombre": "Venus",
+        "tipo": "Terrestre",
+        "masa": {
+          "valor": 0.815,
+          "unidad": "Masa de la Tierra"
+        },
+        "radio": {
+          "valor": 6051.8,
+          "unidad": "km"
+        },
+        "distancia_media_al_Sol": {
+          "valor": 108.2,
+          "unidad": "millones de km"
+        },
+        "periodo_orbital": {
+          "valor": 224.7,
+          "unidad": "días"
+        }
+      },
+      {
+        "nombre": "Tierra",
+        "tipo": "Terrestre",
+        "masa": {
+          "valor": 1,
+          "unidad": "Masa de la Tierra"
+        },
+        "radio": {
+          "valor": 6371,
+          "unidad": "km"
+        },
+        "distancia_media_al_Sol": {
+          "valor": 149.6,
+          "unidad": "millones de km"
+        },
+        "periodo_orbital": {
+          "valor": 365.25,
+          "unidad": "días"
+        }
+      },
+      {
+        "nombre": "Marte",
+        "tipo": "Terrestre",
+        "masa": {
+          "valor": 0.107,
+          "unidad": "Masa de la Tierra"
+        },
+        "radio": {
+          "valor": 3389.5,
+          "unidad": "km"
+        },
+        "distancia_media_al_Sol": {
+          "valor": 227.9,
+          "unidad": "millones de km"
+        },
+        "periodo_orbital": {
+          "valor": 687,
+          "unidad": "días"
+        }
+      },
+      {
+        "nombre": "Júpiter",
+        "tipo": "Gaseoso",
+        "masa": {
+          "valor": 317.8,
+          "unidad": "Masa de la Tierra"
+        },
+        "radio": {
+          "valor": 69911,
+          "unidad": "km"
+        },
+        "distancia_media_al_Sol": {
+          "valor": 778.6,
+          "unidad": "millones de km"
+        },
+        "periodo_orbital": {
+          "valor": 4331,
+          "unidad": "días"
+        }
+      }
+    ]
+  }
+  
