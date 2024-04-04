@@ -1,4 +1,4 @@
 {
-    "appService.defaultWebAppToDeploy": "/subscriptions/6e9e4af7-25ba-41b9-bccc-c6e88a33194b/resourceGroups/LabGpro/providers/Microsoft.Web/sites/BackendGlucontrol",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/6e9e4af7-25ba-41b9-bccc-c6e88a33194b/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/Api-example-deploy",
     "appService.deploySubpath": "."
 }
